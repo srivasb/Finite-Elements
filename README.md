@@ -1,2 +1,2 @@
 # Finite-Elements
-Programs to solve differential partial equations using FEM in Matlab. 
+Programs implemented in Matlab to solve differential partial equations using FEM.
